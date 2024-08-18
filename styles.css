@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.bg-light-green {
+    background-color: #6ecd84;
+}
+
+.bg-dark-green {
+    background-color: #28a745;
+}
+
+h1, h2 {
+    color: white;
+}
+
+p {
+    color: #333;
+}
+
+.text-white p {
+    color: white;
+}
